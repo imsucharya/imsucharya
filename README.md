@@ -6,4 +6,4 @@
 - 📫 How to reach me:  Twitter - @[imsucharya](https://twitter.com/imsucharya)
 - 😄 Pronouns: She/Her
 
-<img src ="https://github-readme-stats.vercel.app/api?username=imsucharya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img src ="https://github-readme-stats.vercel.app/api?username=imsucharya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117"/>
