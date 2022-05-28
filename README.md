@@ -1,5 +1,6 @@
 ### Hola, I'm Sucharya Deshmukh! 👋
 <hr>
+<img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif"/>
 
 - 🔭 I’m currently working on Netflix Clone
 - 🌱 I’m currently learning Full stack Web develpment                                                                                                                     
