@@ -1,6 +1,6 @@
 ### Hola, I'm Sucharya Deshmukh! 👋
 <hr>
-<img src="https://img.freepik.com/free-vector/programming-engineering-development-tiny-girl-programmer-developer-create-code-programming_501813-1374.jpg?w=826" width="800" height="500"/>
+<img src="https://img.freepik.com/free-vector/woman-programmer-female-program-development-concept_40345-423.jpg?w=740" width="800" height="500"/>
 
 - 🔭 I’m currently working on Netflix Clone
 - 🌱 I’m currently learning Full stack Web develpment                                                                                                                     
