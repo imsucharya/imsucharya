@@ -1,6 +1,6 @@
 ### Hola, I'm Sucharya Deshmukh! 👋
 <hr>
-<img src="20220506_134221.jpg" width="800" height="500"/>
+<img src="20220506_134221.jpg" width="800" height="800"/>
 
 - 🔭 I’m currently working on Netflix Clone
 - 🌱 I’m currently learning Full stack Web develpment                                                                                                                     
